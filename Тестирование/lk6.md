@@ -12,4 +12,10 @@
 
   Unit test - блок кода(обычно метод), который вывзвает одно действие и быть универсальным
   <br> Arrage-Act-Assert
+  (arrange) начальные условия для выполнения теста
+  (act) выполняем сам тест
+  (assert) верефицирует результат теста
+  
+  ![image](https://user-images.githubusercontent.com/59621706/224287198-1ffe3a4d-0bca-4dae-8bd7-ab8068077e71.png)
+
   
